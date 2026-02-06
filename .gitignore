@@ -1,0 +1,33 @@
+# Delphi
+__history/
+__recovery/
+*.dcu
+*.ddp
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.dcp
+*.so
+*.dylib
+*.res
+*.rsm
+*.o
+*.a
+*.lib
+*.zip
+
+# IDE
+.idea/
+*.dproj.local
+*.identcache
+*.otares
+*.dsk
+
+# Build
+Release/
+Debug/
+Temp/
+
+# Boss
+packages/
